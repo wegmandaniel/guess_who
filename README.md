@@ -13,4 +13,4 @@ TO DO:
 2.Combine both codes to have a full game that end when player or computer get the right answer
 
 
-![Example](https://github.com/wegmandaniel/guess_who/Example.png?raw=true "Title")
+![Example](Example.png)
