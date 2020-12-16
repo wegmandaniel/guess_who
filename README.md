@@ -11,3 +11,6 @@ TO DO:
 1.Create a code where the algorithm chooses a Character and players ask questions.
 
 2.Combine both codes to have a full game that end when player or computer get the right answer
+
+
+![Example](https://github.com/wegmandaniel/guess_who/Example.png?raw=true "Title")
